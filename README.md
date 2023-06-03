@@ -137,8 +137,12 @@ int main(void)
 
 
 ## Output screen shots on serial monitor   :
- 
- 
+![image](https://github.com/Archana2003-Jkumar/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427594/c5303973-1047-4530-b8ef-f89dae698255)
+
+### Before Insrtion:
+![image](https://github.com/Archana2003-Jkumar/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427594/2d6dadf0-2e5a-4fbe-998e-a444f8d4cf53)
+### After Insertion:
+![image](https://github.com/Archana2003-Jkumar/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/93427594/6365d611-c530-4f86-b8fe-0874a4be6c14)
  
  
 ## Result :
